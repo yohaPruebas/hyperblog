@@ -39,7 +39,15 @@ body{
 #container h1{
     font-size: 20px;
 }
+<<<<<<< HEAD
 #post{
     background-color: white;
     padding: 1em;
+=======
+
+#footer{
+    background-color: #777;
+    color: white;
+    text-align: center;
+>>>>>>> footer
 }
